@@ -1,7 +1,7 @@
 # [EventStone](http://uchibeke.github.io/eventstone)
 
-## Getting Started
-Made with [Limestone](http://web.usask.ca/limestone/) , Eventstone is your buddy helping you manage events of any size. Your buddy helps you add and manage guests, design and generate unique and authenticatable tickets for all guests and print and share the generated tickets.  
+## About
+Eventstone helps you plan and manage events by providing a guestlist and ticketing system, name tag and ticket maker and printer, check in system and event summary.
 
 Go to [EventStone](http://uchibeke.github.io/eventstone) to get started
 
