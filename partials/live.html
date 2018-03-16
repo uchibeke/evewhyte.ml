@@ -9,9 +9,9 @@
 			<div class="row btn-group-lg">
 				<div class=" text-center center-block ">
 					<a type="button" class="btn btn-default "
-					ng-click="secondLiveScreen=true;firstLiveScreen=false;addNewGuestOption=true; "> {{$storage.lan.live.yes}}</a>
+					ng-click="secondLiveScreen=true;firstLiveScreen=false;addNewGuestOption=true; "> {{$storage.lan.live.yes || "Yes"}}</a>
 					<a type="button" class="btn btn-default "
-					ng-click="secondLiveScreen=true;firstLiveScreen=false; " > {{$storage.lan.live.no}}</a>
+					ng-click="secondLiveScreen=true;firstLiveScreen=false; " > {{$storage.lan.live.no || "No"}}</a>
 				</div>
 			</div>
 			<br />
