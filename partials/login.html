@@ -25,7 +25,8 @@
 			</form>
 			<form class="form text-center center-block" ng-show="$storage.user.token">
 				<div class="row">
-					<img src="{{$storage.user.signInUser.photoURL}}" class=" img-responsive center-block"/>
+					<img src="{{$storage.user.signInUser.photoURL}}" class=" img-responsive center-block"
+					style="max-height: 300px" />
 					<p>
 						{{$storage.user.signInUser.displayName}}
 						<br />
