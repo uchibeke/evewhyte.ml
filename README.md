@@ -1,9 +1,9 @@
-# [Eventstone](http://uchibeke.github.io/eventstone)
+# [Eve Whyte](https://evewhyte.ml)
 
 ## About
 Eventstone helps you plan and manage events by providing a guestlist and ticketing system, name tag and ticket maker and printer, check in system and event summary.
 
-Go to [Eventstone](http://uchibeke.github.io/eventstone) to get started
+Go to [Eventstone](https://evewhyte.ml) to get started
 
 ## Bugs and Issues
 
